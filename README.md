@@ -4,9 +4,17 @@
 1. `./gradlew`
 2. `java -jar build/RunJPF.jar src/examples/symbolicexecution/SymbolicExecutionExample.jpf`
 
+### Steps to Run Constraint Solver
+1. `./gradlew`
+2. `java -jar build/RunJPF.jar  src/examples/constraintsolver/IntegerConstraintSolver.jpf`
 
+### Steps to Run Java Constraint
+1. `./gradlew`
+2. `java -jar build/RunJPF.jar  src/examples/javaconstraint/JavaConstraint.jpf`
 
-
+### Steps to Run Nondet
+1. `./gradlew`
+2. `java -jar build/RunJPF.jar  src/examples/nondet/Nondet.jpf`
 
 
 # Java PathFinder

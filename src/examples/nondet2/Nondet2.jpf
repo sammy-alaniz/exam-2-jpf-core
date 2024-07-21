@@ -1,0 +1,4 @@
+target = Nondet2
+
+# this should produce a deadlock
+# target.args = 2,4,1
