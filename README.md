@@ -16,7 +16,19 @@
 1. `./gradlew`
 2. `java -jar build/RunJPF.jar  src/examples/nondet/Nondet.jpf`
 
+### Steps to Run Nondet2
+1. `./gradlew`
+2. `java -jar build/RunJPF.jar  src/examples/nondet2/Nondet2.jpf`
 
+
+
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+
+
+# Old Readme ----------------------------------------------
 # Java PathFinder
 [![Build Status](https://travis-ci.org/javapathfinder/jpf-core.svg?branch=master)](https://travis-ci.org/javapathfinder/jpf-core)
 
