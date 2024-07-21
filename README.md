@@ -1,3 +1,14 @@
+# Exam 2 Study Repo
+
+### Steps to Run Symbolic Excecution
+1. `./gradlew`
+2. `java -jar build/RunJPF.jar src/examples/symbolicexecution/SymbolicExecutionExample.jpf`
+
+
+
+
+
+
 # Java PathFinder
 [![Build Status](https://travis-ci.org/javapathfinder/jpf-core.svg?branch=master)](https://travis-ci.org/javapathfinder/jpf-core)
 
